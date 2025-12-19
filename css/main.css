@@ -445,7 +445,7 @@ width: 0 !important;
     font-weight: 500 !important;
   } 
   body{
-    overflow: hidden;
+    overflow-x: hidden;
   }
 }
 /* end media */
